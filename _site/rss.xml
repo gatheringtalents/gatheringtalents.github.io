@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+        <title>SimpleIT</title>
+        <description>SimpleIT - Viet Le</description>
+        <link>http://blog.simpleit.us</link>
+        <atom:link href="http://blog.simpleit.us/rss.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Sun, 20 Sep 2015 10:13:55 +0100</lastBuildDate>
+        <pubDate>Sun, 20 Sep 2015 10:13:55 +0100</pubDate>
+        <ttl>60</ttl>
+
+
+        <item>
+                <title>EXCO 2012</title>
+                <description></description>
+                <link>http://blog.simpleit.us/featured/2012/09/16/banner-exco-2012</link>
+                <guid>http://blog.simpleit.us/featured/2012/09/16/banner-exco-2012</guid>
+                <pubDate>Sun, 16 Sep 2012 22:19:23 +0100</pubDate>
+        </item>
+
+        <item>
+                <title>Join EF</title>
+                <description></description>
+                <link>http://blog.simpleit.us/2012/09/16/join-ef</link>
+                <guid>http://blog.simpleit.us/2012/09/16/join-ef</guid>
+                <pubDate>Sun, 16 Sep 2012 22:13:50 +0100</pubDate>
+        </item>
+
+        <item>
+                <title>EF Positions</title>
+                <description></description>
+                <link>http://blog.simpleit.us/2012/09/16/ef-positions</link>
+                <guid>http://blog.simpleit.us/2012/09/16/ef-positions</guid>
+                <pubDate>Sun, 16 Sep 2012 22:13:50 +0100</pubDate>
+        </item>
+
+        <item>
+                <title>Past Events</title>
+                <description></description>
+                <link>http://blog.simpleit.us/2012/09/16/past-events</link>
+                <guid>http://blog.simpleit.us/2012/09/16/past-events</guid>
+                <pubDate>Sun, 16 Sep 2012 22:09:40 +0100</pubDate>
+        </item>
+
+        <item>
+                <title>Enterprise Family, Vietnam2020, EXCO Recruitment Form (Sep, 2012)</title>
+                <description>&lt;p&gt;Full Name*&lt;br /&gt;
+[text* full-name]&lt;br /&gt;
+&lt;&amp;#47;p&gt;&lt;/p&gt;
+&lt;p&gt;Email*&lt;br /&gt;
+[email* the-email]&lt;br /&gt;
+&lt;&amp;#47;p&gt;&lt;/p&gt;
+&lt;p&gt;Mobile*&lt;br /&gt;
+[text* mobile]&lt;br /&gt;
+&lt;&amp;#47;p&gt;&lt;/p&gt;
+&lt;p&gt;Occupation*&lt;br /&gt;
+[text* occupation]&lt;br /&gt;
+&lt;&amp;#47;p&gt;&lt;/p&gt;
+&lt;p&gt;Years of work experience*&lt;br /&gt;
+[text* years-exp]&lt;br /&gt;
+&lt;&amp;#47;p&gt;&lt;/p&gt;
+&lt;p&gt;Education Background*&lt;br /&gt;
+[select* edu-major include_blank &quot;Business&quot; &quot;Engineering&quot; &quot;Information Technology&quot; &quot;Arts&quot; &quot;Other&quot;]&lt;br /&gt;
+&lt;&amp;#47;p&gt;&lt;/p&gt;
+&lt;p&gt;I would like to join*&lt;br /&gt;
+[select* team-join include_blank &quot;External Relations Team&quot; &quot;Operations Team&quot; &quot;PR &amp; Marketing Team&quot;]&lt;br /&gt;
+&lt;&amp;#47;p&gt;&lt;/p&gt;
+&lt;p&gt;What are the skills&amp;#47;strengths&amp;#47;talents you have? It could be graphic design, IT expertise, writing skills, public speaking skills or any other skills that you consider as your strengths*&lt;br /&gt;
+[textarea* the-q1 50x15]&lt;br /&gt;
+&lt;&amp;#47;p&gt;&lt;/p&gt;
+&lt;p&gt;Why do you want to join Enterprise Family? What do you expect from Enterprise Family?*&lt;br /&gt;
+[textarea* the-q2 50x15]&lt;br /&gt;
+&lt;&amp;#47;p&gt;&lt;/p&gt;
+&lt;p&gt;What are the things you can do to contribute to Enterprise Family?*&lt;br /&gt;
+[textarea* the-q3 50x15]&lt;br /&gt;
+&lt;&amp;#47;p&gt;&lt;/p&gt;
+&lt;p&gt;You may upload your resume for us to understand you better.&lt;br /&gt;
+[file file-resume]&lt;br /&gt;
+&lt;&amp;#47;p&gt;&lt;/p&gt;
+&lt;p&gt;What&#39;s the security code below?*&lt;br /&gt;
+[captchac captcha-60]&lt;br /&gt;
+[captchar captcha-60]&lt;br /&gt;
+&lt;&amp;#47;p&gt;&lt;/p&gt;
+&lt;p&gt;[submit &quot;Send&quot;]&lt;&amp;#47;p&gt;&lt;br /&gt;
+Enterprise Family, Vietnam2020, EXCO Recruitment Form (Sep, 2012)&lt;br /&gt;
+&quot;Enterprise Family, Vietnam2020&quot; &lt;no-reply@gatheringtalents.com&gt;&lt;/p&gt;
+&lt;p&gt;Full Name*&lt;br /&gt;
+[full-name]&lt;br /&gt;
+&lt;&amp;#47;p&gt;&lt;/p&gt;
+&lt;p&gt;Email*&lt;br /&gt;
+[the-email]&lt;br /&gt;
+&lt;&amp;#47;p&gt;&lt;/p&gt;
+&lt;p&gt;Mobile*&lt;br /&gt;
+[mobile]&lt;br /&gt;
+&lt;&amp;#47;p&gt;&lt;/p&gt;
+&lt;p&gt;Occupation*&lt;br /&gt;
+[occupation]&lt;br /&gt;
+&lt;&amp;#47;p&gt;&lt;/p&gt;
+&lt;p&gt;Years of work experience*&lt;br /&gt;
+[years-exp]&lt;br /&gt;
+&lt;&amp;#47;p&gt;&lt;/p&gt;
+&lt;p&gt;Education Background*&lt;br /&gt;
+[edu-major]&lt;br /&gt;
+&lt;&amp;#47;p&gt;&lt;/p&gt;
+&lt;p&gt;I would like to join*&lt;br /&gt;
+[team-join]&lt;br /&gt;
+&lt;&amp;#47;p&gt;&lt;/p&gt;
+&lt;p&gt;What are the skills&amp;#47;strengths&amp;#47;talents you have? It could be graphic design, IT expertise, writing skills, public speaking skills or any other skills that you consider as your strengths*&lt;br /&gt;
+[the-q1]&lt;br /&gt;
+&lt;&amp;#47;p&gt;&lt;/p&gt;
+&lt;p&gt;Why do you want to join Enterprise Family? What do you expect from Enterprise Family?*&lt;br /&gt;
+[the-q2]&lt;br /&gt;
+&lt;&amp;#47;p&gt;&lt;/p&gt;
+&lt;p&gt;What are the things you can do to contribute to Enterprise Family?*&lt;br /&gt;
+[the-q3]&lt;br /&gt;
+&lt;&amp;#47;p&gt;&lt;/p&gt;
+&lt;p&gt;You may upload your resume for us to understand you better.&lt;br /&gt;
+[file-resume]&lt;br /&gt;
+&lt;&amp;#47;p&gt;&lt;/p&gt;
+&lt;p&gt;--&lt;br /&gt;
+This mail is sent via contact form on Gathering Talents, Connecting Business | VN2020 http:&amp;#47;&amp;#47;gatheringtalents.com&lt;br /&gt;
+vietlq85@gmail.com, dauvanhuan@gmail.com, henry.nguyenminhhien@gmail.com&lt;/p&gt;
+&lt;p&gt;[file-resume]&lt;br /&gt;
+1&lt;br /&gt;
+1&lt;br /&gt;
+[VN2020][Enterprise Family] - Thank you for your submission.&lt;br /&gt;
+&quot;Enterprise Family, Vietnam2020&quot; &lt;no-reply@gatheringtalents.com&gt;&lt;br /&gt;
+Hi [full-name],&lt;/p&gt;
+&lt;p&gt;Thank you for your interest in joining Enterprise Family, Vietnam2020. We have received your application. We will contact you within a couple of days.&lt;/p&gt;
+&lt;p&gt;Best regards,&lt;br /&gt;
+Enterprise Family, Vietnam2020.&lt;/p&gt;
+&lt;p&gt;--&lt;br /&gt;
+This mail is sent via contact form on Gathering Talents, Connecting Business | VN2020 http:&amp;#47;&amp;#47;gatheringtalents.com&lt;br /&gt;
+[the-email]&lt;/p&gt;
+&lt;p&gt;Your message was sent successfully. Thanks.&lt;br /&gt;
+Failed to send your message. Please try later or contact the administrator by another method.&lt;br /&gt;
+Validation errors occurred. Please confirm the fields and submit it again.&lt;br /&gt;
+Please accept the terms to proceed.&lt;br /&gt;
+Email address seems invalid.&lt;br /&gt;
+Please fill the required field.&lt;br /&gt;
+Failed to upload file.&lt;br /&gt;
+This file type is not allowed.&lt;br /&gt;
+This file is too large.&lt;br /&gt;
+Failed to upload file. Error occurred.&lt;br /&gt;
+Your entered code is incorrect.&lt;br /&gt;
+Failed to send your message. Please try later or contact the administrator by another method.&lt;br /&gt;
+Your answer is not correct.&lt;/p&gt;
+</description>
+                <link>http://blog.simpleit.us/2012/09/16/enterprise-family-vietnam2020-exco-recruitment-form-sep-2012</link>
+                <guid>http://blog.simpleit.us/2012/09/16/enterprise-family-vietnam2020-exco-recruitment-form-sep-2012</guid>
+                <pubDate>Sun, 16 Sep 2012 01:59:22 +0100</pubDate>
+        </item>
+
+        <item>
+                <title>ELCA Vietnam: Sharepoint Engineer</title>
+                <description>&lt;p&gt;&lt;strong&gt;Job Description&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;In this position you will work as part of a professional team in various projects to support the design, development and deployment of SHAREPOINT applications.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; Job Requirement&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;We are looking for candidates satisfying the following criteria:&lt;/p&gt;
+&lt;p&gt;- Hold a bachelor&#39;s or master&#39;s degree in Computer Science&lt;br /&gt;
+- Have proven skills in analyzing, design and programming of software solutions&lt;br /&gt;
+- Have at least 1 year experience in developing SHAREPOINT solutions.&lt;br /&gt;
+- MCTS certificate on SHAREPOINT is a plus&lt;br /&gt;
+- Have good programming skills in Microsoft technologies (.NET, C#, Visual Studio, WCF, WPF and Silverlight)&lt;br /&gt;
+- Good communication skills are required, preferably in English.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What we offer:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;- professional working environments&lt;br /&gt;
+- projects using state-of-the-art technologies&lt;br /&gt;
+- extensive coaching and training&lt;br /&gt;
+- attractive remuneration packages&lt;br /&gt;
+- comfortable workplaces&lt;br /&gt;
+- travel opportunities.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the company:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;ELCA is an independent Swiss IT Services Company and a leader in software development, system integration and business consulting. ELCA has helped its clients to leverage information technology innovations successfully for over 40 years. The company has 500 employees, more than 400 of whom are highly skilled engineers. With its headquarters in Lausanne, ELCA has subsidiaries in Zurich, Geneva, Berne, London, Paris, Madrid and Ho-Chi-Minh City (offshore development).&lt;/p&gt;
+&lt;p&gt;ELCA Vietnam plays a strategic role to maintain the group&amp;rsquo;s competitiveness. Our continuous success is based on a strong commitment to quality and project management in combination with technological leadership and thorough business understanding. With our Quality System appraised at CMMI-ML3, we are able to deliver and maintain customized software for a large number of customers.&lt;/p&gt;
+</description>
+                <link>http://blog.simpleit.us/jobs/other/2012/07/03/elca-vietnam-sharepoint-engineer</link>
+                <guid>http://blog.simpleit.us/jobs/other/2012/07/03/elca-vietnam-sharepoint-engineer</guid>
+                <pubDate>Tue, 03 Jul 2012 22:55:21 +0100</pubDate>
+        </item>
+
+        <item>
+                <title>Tamtay: Web Developer</title>
+                <description>&lt;p&gt;&lt;strong&gt;Job description:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re looking for Web Developers to join us. You will have the opportunity to work on cutting edge online interfaces, mobile applications and complex user experiences. Our rewarding work place environment will provide you with stimulating and challenging job opportunities.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; Job responsibilities:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;bull; Develope web applications based on opensource platform.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; Job requirements:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;bull; Degree in Information Technology &amp;#47; Computer Science or related fields.&lt;br /&gt;
+&amp;bull; Creative thinking.&lt;br /&gt;
+&amp;bull; Good teamwork skills.&lt;br /&gt;
+&amp;bull; Can work under high pressure.&lt;br /&gt;
+&amp;bull; Experience of object oriented programming&lt;br /&gt;
+&amp;bull; Understanding of MVC design patterns and frameworks&lt;br /&gt;
+&amp;bull; Experience in optimizing SQL queries and application performance&lt;br /&gt;
+&amp;bull; Experience in NoSQL, Queue, Memcached is a plus&lt;br /&gt;
+&amp;bull; Front-end development including jQuery, understanding of Ajax,css&lt;br /&gt;
+&amp;bull; Must be able to continuously monitor industry trends, technologies, and standards and be able to research, recommend, and apply new technologies as they emerge.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Benefits:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;- Competitive salary.&lt;br /&gt;
+- Free lunch.&lt;br /&gt;
+- Health benefits.&lt;br /&gt;
+- Regular team building activities.&lt;br /&gt;
+- Young, friendly and dynamic international working environment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Location:&lt;&amp;#47;strong&gt; Hanoi, Vietnam&lt;/p&gt;
+</description>
+                <link>http://blog.simpleit.us/developer/jobs/2012/07/03/tamtay-web-developer</link>
+                <guid>http://blog.simpleit.us/developer/jobs/2012/07/03/tamtay-web-developer</guid>
+                <pubDate>Tue, 03 Jul 2012 22:50:11 +0100</pubDate>
+        </item>
+
+        <item>
+                <title>Tamtay: Web Designer</title>
+                <description>&lt;p&gt;&lt;strong&gt;Job description:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;Tamtay Jsc is a leading Internet company in VN. We are seeking for a very Senior Web designer to lead complex and challenging web projects. The Senior Designer is responsible for the creation of all online visual design, including typography, visual concept, logo and icon design for the Internet and interactive platforms.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; Job responsibilities:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;- Design original concepts mockup pages graphically to illustrate the nature of the web experience.&lt;br /&gt;
+- Creating a front-end design that is unique in terms of branding and sophistication yet in synch with the overall design.&lt;br /&gt;
+- Ensure usability, interface design and interaction design standards are adhered to and applied throughout the website.&lt;br /&gt;
+- Think strategically about new design paradigms and new features sets.&lt;br /&gt;
+- Document interface designs for communication to developers.&lt;br /&gt;
+- Maintain knowledge of current trends, color and technology relevant to web and graphic design.&lt;br /&gt;
+- Demonstrate knowledge of XHTML, email production, web standards, current web technologies and browser compatibility..&lt;br /&gt;
+- Understanding of website optimization&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; Job requirements:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;- Can work under high pressure, keen to learn and be a self motivator&lt;br /&gt;
+- Trust worthy and reliable&lt;br /&gt;
+- Patient, perfection-oriented, well-organized with excellent time management&lt;br /&gt;
+- Good social&amp;#47;interactive skills and a good team player.&lt;br /&gt;
+- 4+ years of recent web and graphic design experience&lt;br /&gt;
+- Degree in Web Design and &amp;#47; or related discipline is preferred.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Benefits:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;- Competitive salary&lt;br /&gt;
+- Free lunch&lt;br /&gt;
+- Health support&lt;br /&gt;
+- Regular team building activities&lt;br /&gt;
+- Young, friendly and dynamic international working environment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Location:&lt;&amp;#47;strong&gt; Hanoi, Vietnam&lt;/p&gt;
+</description>
+                <link>http://blog.simpleit.us/graphic%20designer/jobs/2012/07/03/tamtay</link>
+                <guid>http://blog.simpleit.us/graphic%20designer/jobs/2012/07/03/tamtay</guid>
+                <pubDate>Tue, 03 Jul 2012 22:48:02 +0100</pubDate>
+        </item>
+
+        <item>
+                <title>Tamtay: Mobile Application Designer</title>
+                <description>&lt;p&gt;&lt;strong&gt;Job description:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re looking for Mobile Application Designers to join us. You will have the opportunity to work on cutting edge online interfaces, mobile applications and complex user experiences. Our rewarding work place environment will provide you with stimulating and challenging job opportunities.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Job responsibilities:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;- To design&amp;#47;online applications, mobile apps and user interfaces (UI).&lt;br /&gt;
+- To create clean, crisp, modern designs whilst understanding current usability and design trends.&lt;br /&gt;
+- Maintaining and evolving the existing tamtay.vn brands.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; Job requirements:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;- Work experience in big projects will be a strong advantage.&lt;br /&gt;
+- Can work under high pressure, keen to learn and be a self motivator.&lt;br /&gt;
+- Trust worthy and reliable.&lt;br /&gt;
+- Patient, perfection-oriented, well-organized with great time management.&lt;br /&gt;
+- Good social&amp;#47;interactive skills and a good team player.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Benefits:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;- Competitive salary.&lt;br /&gt;
+- Free lunch.&lt;br /&gt;
+- Health benefits.&lt;br /&gt;
+- Regular team building activities.&lt;br /&gt;
+- Young, friendly and dynamic international working environment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Location:&lt;&amp;#47;strong&gt; Hanoi, Vietnam&lt;/p&gt;
+</description>
+                <link>http://blog.simpleit.us/graphic%20designer/jobs/2012/07/03/tamtay-mobile-application-designer</link>
+                <guid>http://blog.simpleit.us/graphic%20designer/jobs/2012/07/03/tamtay-mobile-application-designer</guid>
+                <pubDate>Tue, 03 Jul 2012 22:46:29 +0100</pubDate>
+        </item>
+
+        <item>
+                <title>Tamtay: Game Developer</title>
+                <description>&lt;p&gt;&lt;strong&gt;Job description:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;Our company is seeking Game Developers to join our Game Studio. The Tamtay Game studio is one of the leading studios in Vietnam. You can join in a very modern game developing process and help us build many challenging and interesting games.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Job responsibilities:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;bull; Develop new games &amp;ndash; client side or server side.&lt;br /&gt;
+&amp;bull; Maintain and update existing games in our system.&lt;br /&gt;
+&amp;bull; Integrate games with other social network services.&lt;br /&gt;
+&amp;bull; Take part in the process of building new gameplay and game concepts.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; Job requirements:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;bull; Degree in Information Technology &amp;#47; Computer Science or related fields.&lt;br /&gt;
+&amp;bull; Programming experience in Java, Flash&amp;#47;Action Script or C++.&lt;br /&gt;
+&amp;bull; Creative thinking.&lt;br /&gt;
+&amp;bull; Knowledge of game servers: SmartFox, Electro, FlashMedia Server&amp;hellip; is a big advantage.&lt;br /&gt;
+&amp;bull; Good teamwork skills.&lt;br /&gt;
+&amp;bull; Can work under high pressure.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; Benefits:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;- Competitive salary.&lt;br /&gt;
+- Free lunch.&lt;br /&gt;
+- Health benefits.&lt;br /&gt;
+- Regular team building activities.&lt;br /&gt;
+- Young, friendly and dynamic international working environment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; Location:&lt;&amp;#47;strong&gt; Hanoi, Vietnam&lt;/p&gt;
+</description>
+                <link>http://blog.simpleit.us/developer/jobs/2012/07/03/tamtay-game-developer</link>
+                <guid>http://blog.simpleit.us/developer/jobs/2012/07/03/tamtay-game-developer</guid>
+                <pubDate>Tue, 03 Jul 2012 22:44:42 +0100</pubDate>
+        </item>
+
+        <item>
+                <title>Tamtay: Game Designer</title>
+                <description>&lt;p&gt;&lt;strong&gt;Job description:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re looking for Game Designers to join us. You will work collaboratively in small teams that are focused on making games that push technological and creative boundaries. Tamtay is a place where you are encouraged to grow as a professional and the limits of your potential and opportunity are yours alone to define.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Job responsibilities:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;- Collect interesting game ideas, calculate business cases and evaluate new game opportunities&lt;br /&gt;
+- Create game concepts and test game prototypes with users&lt;br /&gt;
+- Define, measure, and analyze key metrics and be ultimately responsible for the success of all your games.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; Job requirements:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;- Can work under high pressure, keen to learn and be a self motivator&lt;br /&gt;
+- Trust worthy and reliable&lt;br /&gt;
+- Patient, perfection-oriented, well-organized with excellent time management&lt;br /&gt;
+- Good social&amp;#47;interactive skills and a good team player.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Benefits:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;- Competitive salary&lt;br /&gt;
+- Free lunch&lt;br /&gt;
+- Health support&lt;br /&gt;
+- Regular team building activities&lt;br /&gt;
+- Young, friendly and dynamic international working environment.&lt;br /&gt;
+e0A&lt;br /&gt;
+&lt;strong&gt;Location:&lt;&amp;#47;strong&gt; Hanoi, Vietnam&lt;/p&gt;
+</description>
+                <link>http://blog.simpleit.us/jobs/other/2012/07/03/tamtay-game-designer</link>
+                <guid>http://blog.simpleit.us/jobs/other/2012/07/03/tamtay-game-designer</guid>
+                <pubDate>Tue, 03 Jul 2012 22:42:58 +0100</pubDate>
+        </item>
+
+        <item>
+                <title>Misfit Wearables: Various Positions </title>
+                <description>&lt;p&gt;&lt;strong&gt;About the company:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;Misfit Wearables was founded by the founders of Agamatrix- the world leading company in blood glucose testing device and Apple&amp;amp;Pepsi Former CEO John Sculley. Misfit is developing highly wearable sensor products and services for wellness and medical applications. The device will be wearable and can measure human vital signs.&lt;br /&gt;
+Misfit Wearables currently has two offices: Software R&amp;amp;D center in Ho Chi Minh and Hardware center in San Francisco. In April 2012, Misfit Wearables received its 1st funding from Founders Fund and Khosla Ventures:&amp;nbsp;&lt;a href=&quot;http:&amp;#47;&amp;#47;techcrunch.com&amp;#47;2012&amp;#47;04&amp;#47;27&amp;#47;the-wearable-computing-startup-from-agamatrixs-founders-former-apple-ceo-john-sculley-just-raised-7-6m&amp;#47;&quot;&gt;http:&amp;#47;&amp;#47;techcrunch.com&amp;#47;2012&amp;#47;04&amp;#47;27&amp;#47;the-wearable-computing-startup-from-agamatrixs-founders-former-apple-ceo-john-sculley-just-raised-7-6m&amp;#47;&lt;&amp;#47;a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Application deadline:&lt;&amp;#47;strong&gt;&lt;br /&gt;
+ASAP&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Job Description:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;Data Scientist: World-class smarts in math, algorithms. PhD in machine learning or biofeedback.&lt;br /&gt;
+Research SW Dev: World-class smarts in math, algorithms. High-perf, parallel programming too.&lt;br /&gt;
+Front-end Web Dev: Solid algorithms, really solid HTML5, AJAX, CSS, m-web. BS in CS&amp;#47;equiv Req&lt;br /&gt;
+Back-end Web Dev: Solid algorithms, high-perf, concurrent programming. BS in CS&amp;#47;equiv req&lt;br /&gt;
+mDev: Algorithms&amp;#47;data structures superstar, bonus pts if you&#39;ve done apps. BS in CS&amp;#47;equiv req.&lt;/p&gt;
+&lt;p&gt;For more information, please visit: &lt;a href=&quot;http:&amp;#47;&amp;#47;misfitwearables.com&amp;#47;jobs&quot; target=&quot;_blank&quot;&gt;http:&amp;#47;&amp;#47;misfitwearables.com&amp;#47;jobs&lt;&amp;#47;a&gt;&lt;/p&gt;
+&lt;p&gt;Or email people [at] misfitwearables [dot] com.&lt;/p&gt;
+</description>
+                <link>http://blog.simpleit.us/developer/jobs/2012/07/03/misfit-wearables-various-positions</link>
+                <guid>http://blog.simpleit.us/developer/jobs/2012/07/03/misfit-wearables-various-positions</guid>
+                <pubDate>Tue, 03 Jul 2012 22:40:46 +0100</pubDate>
+        </item>
+
+        <item>
+                <title>DUPONT Vietnam: Strategic Planning Manager &amp; New Business Development Manager </title>
+                <description>&lt;p&gt;&lt;strong&gt;About the position:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;- Lead &amp; manage the strategy &amp; planning process for DuPont in Vietnam (VN).&lt;br /&gt;
+- Provides standardized business planning competency to support businesses in Vietnam.&lt;br /&gt;
+- Lead the business development activities to accelerate business growth through identifying and supporting cross-businesses opportunities; developing strategic accounts; driving emerging market strategy; and identifying Merger &amp; Acquisition opportunities.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Principle Accountabilities:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;- Assist Country Manager in developing, executing long-term strategic plan and making key links to annual Plan&lt;br /&gt;
+- Responsible for coordinating the work plans, business reviews and developing materials for communication to VN Leadership team&lt;br /&gt;
+- Manage the portfolio management process (POI), which highlights key choices and enables VN to more effectively prioritize and resource projects&lt;br /&gt;
+- Lead new business development specific projects both within &amp; outside core businesses in VN, including M&amp;A, new business development and participate in evaluations.&lt;br /&gt;
+- Coordinate routine and special business leadership meetings&lt;br /&gt;
+- Lead Projects &amp;#47; New Business Development Work-streams  to support development of key market strategies and growth plans &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nature and Scope:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Major Functions&lt;&amp;#47;em&gt;&lt;br /&gt;
+- Lead and manage Strategic Planning Process in VN&lt;br /&gt;
+  + Assist Country Manager in developing, executing long-term strategic plan and making key links to annual Plan&lt;br /&gt;
+  + Manage the portfolio management process (POI), which highlights key choices and enables VN to more effectively prioritize and resource projects&lt;br /&gt;
+  + Coordinate routine and special business leadership meetings&lt;br /&gt;
+  + Provide standardized business planning competence, business development competence, guidance, and coaching to the business team in VN.&lt;br /&gt;
+- Projects related to some New Business Development work-streams&lt;br /&gt;
+  + Leading projects as part of the new business development initiatives&lt;br /&gt;
+  + Develop key strategies to support sustainable business growth in Vietnam&lt;br /&gt;
+  + Explore cross-SBU opportunity in Vietnam&lt;br /&gt;
+  + Develop mission to fill gaps in Strategic Industry; Strategic Accounts; Emerging Market Strategy and Mergers &amp; Acquisition&lt;br /&gt;
+  + Recommend potential growth opportunities to Strategic Businesses and solicit their support&lt;br /&gt;
+  + Formulate strategies and tactics to build sustainable relationships with internal and external&amp;#47;potential customers.&lt;br /&gt;
+  + Ensure compliance with DuPont business conduct policy and country&amp;rsquo;s statutory requirements&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Skills and Knowledge Required&lt;&amp;#47;em&gt;&lt;br /&gt;
+- MBA preferred&lt;br /&gt;
+- 8 to 10 years experience in a strategic position&lt;br /&gt;
+- Overseas work experience highly advantageous&lt;br /&gt;
+- Strong leadership with high conceptual flexibility&lt;br /&gt;
+- High ethical standards&lt;br /&gt;
+- Strong influential &amp; networking skills&lt;br /&gt;
+- Ability in teaming and building a team	&lt;/p&gt;
+</description>
+                <link>http://blog.simpleit.us/marketing/jobs/2012/07/03/dupont-vietnam-strategic-planning-manager-new-business-development-manager</link>
+                <guid>http://blog.simpleit.us/marketing/jobs/2012/07/03/dupont-vietnam-strategic-planning-manager-new-business-development-manager</guid>
+                <pubDate>Tue, 03 Jul 2012 22:33:56 +0100</pubDate>
+        </item>
+
+        <item>
+                <title>Sembcorp: Reception Officer</title>
+                <description>&lt;p&gt;&lt;strong&gt;Job Descriptions:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;bull; Ensure excellent quality of customer service is provided;&lt;br /&gt;
+&amp;bull; Ensure a proper closure of all calls;&lt;br /&gt;
+&amp;bull; Provide general administrative support;&lt;br /&gt;
+&amp;bull; Handling reception and front-line activities;&lt;br /&gt;
+&amp;bull; Resolve complaints&amp;#47; feedback and escalate to the various levels;&lt;br /&gt;
+&amp;bull; Follow up with customers on issues and feedback;&lt;br /&gt;
+&amp;bull; Perform clerical and other ad hocs duties&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Requirements:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;bull; Candidate must possess Diploma in any discipline&lt;br /&gt;
+&amp;bull; Preferably with 1 &amp;ndash; 2 years experience in customer service&lt;br /&gt;
+&amp;bull; Proficiency in MS Office applications is a must&lt;br /&gt;
+Pleasant personality with good interpersonal skills&lt;br /&gt;
+Good written and communication skills&lt;br /&gt;
+Ability to work independently with minimum supervision&lt;br /&gt;
+&amp;bull; Good attitude and responsible.&lt;/p&gt;
+&lt;p&gt;Remuneration will be commensurate with experience and qualifications.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the company:&amp;nbsp;&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;Sembcorp Development is a subsidiary of Sembcorp Industries Ltd, a public-listed company on the Singapore Stock Exchange. &amp;nbsp;We are a leading Asian developer with over 20 years&amp;rsquo; experience undertaking master planning, land preparation and infrastructure development, and transforming raw land into large scale urban developments. We own, develop, market and manage urban developments comprising industrial parks as well as business, commercial and residential space in Vietnam, China and Indonesia. If you are highly motivated, self-driven and dynamic professionals, we invite you to make a strategic move to strengthen our present team in meeting the challenges of the millennium.&lt;/p&gt;
+</description>
+                <link>http://blog.simpleit.us/jobs/other/2012/06/22/sembcorp</link>
+                <guid>http://blog.simpleit.us/jobs/other/2012/06/22/sembcorp</guid>
+                <pubDate>Fri, 22 Jun 2012 00:12:02 +0100</pubDate>
+        </item>
+
+        <item>
+                <title>Sembcorp: Office Manager</title>
+                <description>&lt;p&gt;&lt;strong&gt;Job Descriptions:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;bull; Oversee daily office administration duties, vendor management and other responsibilities required to ensure smooth office operations;&lt;br /&gt;
+&amp;bull; Develop and maintain reports according to company policies and procedures&lt;br /&gt;
+&amp;bull; Cash flow &amp;amp; Petty Cash Control&lt;br /&gt;
+&amp;bull; Render support to all Office Projects&lt;br /&gt;
+&amp;bull; Control, procure and maintain general office supplies such as office furniture and equipment, stationery, etc and to liaise with vendors &amp;#47; landlord pertaining to services of office equipment and general office maintenance.&lt;br /&gt;
+&amp;bull; Key point of contact for office administration matters, security, vendors and building landlords&lt;br /&gt;
+&amp;bull; Maintain general office insurances &amp;amp; office environment.&lt;br /&gt;
+&amp;bull; Provide administrative support to the office, mailing and delivery service and cover receptionist duties&lt;br /&gt;
+&amp;bull; Process expense claims;&lt;br /&gt;
+&amp;bull; Other responsibilities include office housekeeping, admin workflow and circulation of internal materials.&lt;br /&gt;
+&amp;bull; Any other adhoc duties as required&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Requirements:&lt;&amp;#47;strong&gt;&lt;br /&gt;
+&amp;bull; Degree or Diploma with min 3 years of relevant working&lt;br /&gt;
+&amp;bull; Good communication skills (written &amp;amp; spoken).&lt;br /&gt;
+&amp;bull; Analytical, organized, meticulous, ability to multi-task.&lt;br /&gt;
+&amp;bull; Proficient in MS Excel, Word and PowerPoint.&lt;/p&gt;
+&lt;p&gt;Remuneration will be commensurate with experience and qualifications.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the company:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;Sembcorp Development is a subsidiary of Sembcorp Industries Ltd, a public-listed company on the Singapore Stock Exchange. We are a leading Asian developer with over 20 years&amp;rsquo; experience undertaking master planning, land preparation and infrastructure development, and transforming raw land into large scale urban developments. We own, develop, market and manage urban developments comprising industrial parks as well as business, commercial and residential space in Vietnam, China and Indonesia. If you are highly motivated, self-driven and dynamic professionals, we invite you to make a strategic move to strengthen our present team in meeting the challenges of the millennium.&lt;/p&gt;
+</description>
+                <link>http://blog.simpleit.us/jobs/other/2012/06/22/sembcorp-office-manager</link>
+                <guid>http://blog.simpleit.us/jobs/other/2012/06/22/sembcorp-office-manager</guid>
+                <pubDate>Fri, 22 Jun 2012 00:09:59 +0100</pubDate>
+        </item>
+
+        <item>
+                <title>Citi Vietnam Management Associate Program</title>
+                <description>&lt;p&gt;&lt;strong&gt;The Program&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;The Management Associate (MA) Program is tailored to develop you as a high-potential individual for leadership roles in Citibank Vietnam. Upon entering the Program, you will not only acquire advanced banking knowledge, but also the leadership and interpersonal skills that enable you to maximize your potential early and to define your own career.&lt;/p&gt;
+&lt;p&gt;The Vietnam Management Associate Program is a 24 month program and is structured as follows:&lt;/p&gt;
+&lt;p&gt;&amp;bull; Year 1, 3 x 4 month rotations&lt;br /&gt;
+&amp;bull; Year 2, 12 month assignment&lt;/p&gt;
+&lt;p&gt;In addition you will be given class room training, opportunities to interact with Senior Leaders, MA assignments, assigned buddies and mentors to support you throughout the program. By giving you exposure and insight into the different business areas, it will give you an opportunity not only to see how those areas work, but to develop your people and relationship skills in order to build a network of contacts &amp;ndash; which will be very useful as you move through the organization.&lt;/p&gt;
+&lt;p&gt;At the end of the program, you will be assigned to one business. The assignment is based on a combination of your personal preferences and business needs. We appreciate that earlier in your career it is harder to pin point where you want to work. The structure of the program means that you will have the opportunity to explore different areas before making your final decision.&lt;/p&gt;
+&lt;p&gt;In Citibank Vietnam we have 3 Management Associate Program streams:&lt;/p&gt;
+&lt;p&gt;&amp;bull; &lt;em&gt;Operations &amp;amp; Technology (O&amp;amp;T) MA Program&lt;&amp;#47;em&gt;&lt;br /&gt;
+o Rotations will comprise of 2 x O&amp;amp;T rotations, 1 x business rotation, 12 month assignment in O&amp;amp;T&lt;br /&gt;
+o At the end of the program you will lead a small unit within O&amp;amp;T&lt;/p&gt;
+&lt;p&gt;&amp;bull; &lt;em&gt;Consumer Bank MA Program&lt;&amp;#47;em&gt;&lt;br /&gt;
+o Rotations will comprise of 3 x rotations within Consumer, 12 month assignment in Consumer Bank&lt;br /&gt;
+o At the end of the program you will be assigned in a Consumer Bank business&lt;/p&gt;
+&lt;p&gt;The MA Program is demanding and your learning curve will be steep. However, you will not be bored and will constantly be faced with new challenges.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Who We are Looking For:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;To do well in this role, you must be a highly motivated and results-oriented individual. A financial background is not a must, but it is a nice-to-have. More importantly, you must have a genuine interest in the financial services sector and initiative to constantly learn and apply what you have acquired to your work.&lt;/p&gt;
+&lt;p&gt;You must have superior academic performance and first class analytical skills. But it&amp;rsquo;s just as important that you have the confidence and credibility to build relationships with clients and possess excellent communication skills. Not to mention that we expect you to work well both independently and effectively in a team, while exhibiting the highest commitment to integrity and ethical decision making. Finally, you need to demonstrate leadership qualities and a passion to further develop your leadership potential.&lt;/p&gt;
+&lt;p&gt;We are seeking entrepreneurs who can think creatively to identify new business opportunities and execute innovative ideas successfully as well as those that exhibit flexibility, adaptability and resilience to face the demands of working in a challenging and fast paced environment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In order to be considered for any of the above programs you must have:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;bull; A University Degree and&amp;#47;or Masters Degree from a reputable university with majors in Finance, Economics, Commerce, Marketing, Business Administration, IT, Technology or related areas&lt;br /&gt;
+&amp;bull; 1 &amp;ndash; 3 years of work experience&lt;br /&gt;
+&amp;bull; Fluency in both English and Vietnamese is also required&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Application Process&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;bull; HR Application Screening&lt;br /&gt;
+&amp;bull; Online testing&lt;br /&gt;
+&amp;bull; HR interview&lt;br /&gt;
+&amp;bull; Panel interview&lt;br /&gt;
+&amp;bull; CCO interview&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Application Process&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;All applicants must apply online through www.careers.citigroup.com and specify which program they are applying for.&lt;/p&gt;
+</description>
+                <link>http://blog.simpleit.us/jobs/other/2012/06/20/citi-vietnam-management-associate-program</link>
+                <guid>http://blog.simpleit.us/jobs/other/2012/06/20/citi-vietnam-management-associate-program</guid>
+                <pubDate>Wed, 20 Jun 2012 18:32:19 +0100</pubDate>
+        </item>
+
+        <item>
+                <title>NCT Corporation: Sales Manager</title>
+                <description>&lt;p&gt;Founded in 2008, NCT Corporation was originally named Nhaccuatui Corporation based on its first product&amp;nbsp; &quot;nhaccuatui.com&quot;, the top music website in Vietnam. Everyday, the site welcomes approximately 2 million unique visits and is currently one of the top-in-mind site among internet users in Vietnam.&amp;nbsp; NTC has expanded its business with two other portals which are Nava.vn, a B2C website and Viss.vn, an online dating platform.&lt;/p&gt;
+&lt;p&gt;More information on NTC can be found at: http:&amp;#47;&amp;#47;nctcorp.vn&amp;#47;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Job descriptions:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plan advertising sales yearly and quarterly&lt;&amp;#47;li&gt;
+&lt;li&gt;Plan business operation including budget, target customers, banking, human resources, wages, incentives, and revenue targets for each team&lt;&amp;#47;li&gt;
+&lt;li&gt;Support teams in dealing with important customers to increase revenue&lt;&amp;#47;li&gt;
+&lt;li&gt;Plan sales strategies: allowances and promotions.&lt;&amp;#47;li&gt;
+&lt;li&gt;Report monthly and quarterly revenue to higher managers&lt;&amp;#47;li&gt;
+&lt;li&gt;Conduct market research and make marketing recommendations on how to target key customers&lt;&amp;#47;li&gt;
+&lt;li&gt;Research and analyse online marketing and customer behaviours to provide the best solutions for marketing.&lt;&amp;#47;li&gt;
+&lt;li&gt;Develop and maintain relationships with customers.&lt;&amp;#47;li&gt;
+&lt;li&gt;Location: Ho Chi Minh City&lt;&amp;#47;li&gt;&lt;br /&gt;
+&lt;&amp;#47;ul&gt;&lt;br /&gt;
+&lt;strong&gt;Requirements:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Aged 28-35, graduated in Marketing, Commerce or related disciplines.&lt;&amp;#47;li&gt;
+&lt;li&gt;Minimum 3 years experience in sales&lt;&amp;#47;li&gt;
+&lt;li&gt;Minimum 1 year experience as sales manager&lt;&amp;#47;li&gt;
+&lt;li&gt;Passion for sales and online projects.&lt;&amp;#47;li&gt;
+&lt;li&gt;Experience in working with Advertising Agency or Digital Advertising Agency preferably.&lt;&amp;#47;li&gt;&lt;br /&gt;
+&lt;&amp;#47;ul&gt;&lt;br /&gt;
+&lt;strong&gt;&amp;nbsp;&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+                <link>http://blog.simpleit.us/sales/jobs/2012/06/18/nct-corporation-sales-manager</link>
+                <guid>http://blog.simpleit.us/sales/jobs/2012/06/18/nct-corporation-sales-manager</guid>
+                <pubDate>Mon, 18 Jun 2012 21:20:06 +0100</pubDate>
+        </item>
+
+        <item>
+                <title>NCT Corporation: Senior Designer</title>
+                <description>&lt;p&gt;&lt;strong&gt;Job descriptions:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Design website interface and layout.&lt;&amp;#47;li&gt;
+&lt;li&gt;Build new functions for the website, design marketing materials for events and products.&lt;&amp;#47;li&gt;
+&lt;li&gt;Design website banners.&lt;&amp;#47;li&gt;
+&lt;li&gt;Location: Ho Chi Minh City&lt;&amp;#47;li&gt;
+&lt;li&gt;Further discussion during interview.&lt;&amp;#47;li&gt;&lt;br /&gt;
+&lt;&amp;#47;ul&gt;&lt;br /&gt;
+&lt;strong&gt;Requirements:&lt;&amp;#47;strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Proficient in design softwares e.g. Photoshop, Flash, etc.&lt;&amp;#47;li&gt;
+&lt;li&gt;Undergraduates majoring in arts or graphics design.&lt;&amp;#47;li&gt;
+&lt;li&gt;Enthusiastic, active, innovative and flexible&lt;&amp;#47;li&gt;&lt;br /&gt;
+&lt;&amp;#47;ul&gt;&lt;/p&gt;
+&lt;div&gt;&lt;strong&gt;Location:&lt;&amp;#47;strong&gt; Ho Chi Minh City&lt;&amp;#47;div&gt;&lt;/p&gt;
+&lt;div&gt;&lt;&amp;#47;div&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+                <link>http://blog.simpleit.us/graphic%20designer/jobs/2012/06/18/nct-corporation-senior-designer</link>
+                <guid>http://blog.simpleit.us/graphic%20designer/jobs/2012/06/18/nct-corporation-senior-designer</guid>
+                <pubDate>Mon, 18 Jun 2012 21:19:02 +0100</pubDate>
+        </item>
+
+        <item>
+                <title>Vinatex: Various positions available</title>
+                <description>&lt;p&gt;Vinatex&amp;nbsp;is one of the largest and the most competitive textile &amp;amp; garment corporations in Asia, which actively manages nearly 120 subsidiaries operating not only in textile &amp;amp; garment but also in other extended businesses. The corporation&amp;nbsp;has managed a fully integrated manufacturing system from raw material, spinning, weaving and dyeing to finishing along with other proactive commercial services.&amp;nbsp; Vinatex&amp;nbsp;has built up commercial relationship with more than 400 corporations from 65 countries, generating its export value over 20% of the total textile &amp;amp; garment export turnover.&lt;/p&gt;
+&lt;table width=&quot;565&quot; border=&quot;1&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; align=&quot;left&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td width=&quot;24&quot;&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;strong&gt;#&lt;&amp;#47;strong&gt;&lt;&amp;#47;p&gt;&lt;br /&gt;
+&lt;&amp;#47;td&gt;&lt;/p&gt;
+&lt;td width=&quot;101&quot;&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;strong&gt;Position&lt;&amp;#47;strong&gt;&lt;&amp;#47;p&gt;&lt;br /&gt;
+&lt;&amp;#47;td&gt;&lt;/p&gt;
+&lt;td width=&quot;175&quot;&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;strong&gt;General Job Descriptions&lt;&amp;#47;strong&gt;&lt;&amp;#47;p&gt;&lt;br /&gt;
+&lt;&amp;#47;td&gt;&lt;/p&gt;
+&lt;td valign=&quot;top&quot; width=&quot;77&quot;&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;strong&gt;Vacancies&lt;&amp;#47;strong&gt;&lt;&amp;#47;p&gt;&lt;br /&gt;
+&lt;&amp;#47;td&gt;&lt;/p&gt;
+&lt;td width=&quot;187&quot;&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;strong&gt;Requirements &lt;&amp;#47;strong&gt;&lt;&amp;#47;p&gt;&lt;br /&gt;
+&lt;&amp;#47;td&gt;&lt;br /&gt;
+&lt;&amp;#47;tr&gt;&lt;/p&gt;
+&lt;tr&gt;
+&lt;td width=&quot;24&quot;&gt;1&lt;&amp;#47;td&gt;&lt;/p&gt;
+&lt;td width=&quot;101&quot;&gt;Marketing , Mechandising, Supply Chain Manager&lt;&amp;#47;td&gt;&lt;/p&gt;
+&lt;td width=&quot;175&quot;&gt;- Develop the textile and garment business system domestically and abroad.- Build and manage the mechandising system domestically and abroad.- Build and manage the supply chain (raw materials, machine, final products)&lt;&amp;#47;td&gt;&lt;/p&gt;
+&lt;td valign=&quot;top&quot; width=&quot;77&quot;&gt;
+&lt;p align=&quot;center&quot;&gt;06&lt;&amp;#47;p&gt;&lt;br /&gt;
+&lt;&amp;#47;td&gt;&lt;/p&gt;
+&lt;td width=&quot;187&quot;&gt;- Deep understanding and experience in the mentioned areas- Working experience in textile &amp;amp; garment industry is preferred&lt;&amp;#47;td&gt;&lt;br /&gt;
+&lt;&amp;#47;tr&gt;&lt;/p&gt;
+&lt;tr&gt;
+&lt;td width=&quot;24&quot;&gt;2&lt;&amp;#47;td&gt;&lt;/p&gt;
+&lt;td width=&quot;101&quot;&gt;Public Finance Manager&lt;&amp;#47;td&gt;&lt;/p&gt;
+&lt;td width=&quot;175&quot;&gt;Public finance and textile, garment project management&lt;&amp;#47;td&gt;&lt;/p&gt;
+&lt;td valign=&quot;top&quot; width=&quot;77&quot;&gt;
+&lt;p align=&quot;center&quot;&gt;02&lt;&amp;#47;p&gt;&lt;br /&gt;
+&lt;&amp;#47;td&gt;&lt;/p&gt;
+&lt;td width=&quot;187&quot;&gt;- Deep understanding and experience in the mentioned areas- &amp;nbsp;Working experience in textile &amp;amp; garment industry is preferred&lt;&amp;#47;td&gt;&lt;br /&gt;
+&lt;&amp;#47;tr&gt;&lt;/p&gt;
+&lt;tr&gt;
+&lt;td width=&quot;24&quot;&gt;3&lt;&amp;#47;td&gt;&lt;/p&gt;
+&lt;td width=&quot;101&quot;&gt;Human Resources Manager&lt;&amp;#47;td&gt;&lt;/p&gt;
+&lt;td width=&quot;175&quot;&gt;Manage and maintain human resources development in textile and garment projects.&lt;&amp;#47;td&gt;&lt;/p&gt;
+&lt;td valign=&quot;top&quot; width=&quot;77&quot;&gt;
+&lt;p align=&quot;center&quot;&gt;02&lt;&amp;#47;p&gt;&lt;br /&gt;
+&lt;&amp;#47;td&gt;&lt;/p&gt;
+&lt;td width=&quot;187&quot;&gt;- Deep understanding and experience in the mentioned areas- &amp;nbsp;Working experience in textile &amp;amp; garment industry is preferred&lt;&amp;#47;td&gt;&lt;br /&gt;
+&lt;&amp;#47;tr&gt;&lt;/p&gt;
+&lt;tr&gt;
+&lt;td width=&quot;24&quot;&gt;4&lt;&amp;#47;td&gt;&lt;/p&gt;
+&lt;td width=&quot;101&quot;&gt;Fashion Designer&lt;&amp;#47;td&gt;&lt;/p&gt;
+&lt;td width=&quot;175&quot;&gt;Take part in, advise on the processes of creating unique and specific design for the company; contribute to the enhancement of Vietnam&amp;rsquo;s fashion brand in the world.&lt;&amp;#47;td&gt;&lt;/p&gt;
+&lt;td valign=&quot;top&quot; width=&quot;77&quot;&gt;
+&lt;p align=&quot;center&quot;&gt;10&lt;&amp;#47;p&gt;&lt;br /&gt;
+&lt;&amp;#47;td&gt;&lt;/p&gt;
+&lt;td width=&quot;187&quot;&gt;- Deep understanding and experience in the mentioned areas- &amp;nbsp;Working experience in textile &amp;amp; garment industry is preferred&lt;&amp;#47;td&gt;&lt;br /&gt;
+&lt;&amp;#47;tr&gt;&lt;/p&gt;
+&lt;tr&gt;
+&lt;td width=&quot;24&quot;&gt;5&lt;&amp;#47;td&gt;&lt;/p&gt;
+&lt;td width=&quot;101&quot;&gt;Fashion BrandingManager&lt;&amp;#47;td&gt;&lt;/p&gt;
+&lt;td width=&quot;175&quot;&gt;Take part in, asvise on the process of buiding and protecting fashion brands for the company in order to enhance Vietnam&amp;rsquo;s brands in the world.&lt;&amp;#47;td&gt;&lt;/p&gt;
+&lt;td valign=&quot;top&quot; width=&quot;77&quot;&gt;
+&lt;p align=&quot;center&quot;&gt;03&lt;&amp;#47;p&gt;&lt;br /&gt;
+&lt;&amp;#47;td&gt;&lt;/p&gt;
+&lt;td width=&quot;187&quot;&gt;- Deep understanding and experience in the mentioned areas- &amp;nbsp;Working experience in textile &amp;amp; garment industry is preferred&lt;&amp;#47;td&gt;&lt;br /&gt;
+&lt;&amp;#47;tr&gt;&lt;br /&gt;
+&lt;&amp;#47;tbody&gt;&lt;br /&gt;
+&lt;&amp;#47;table&gt;&lt;br /&gt;
+&lt;strong&gt;&lt;br /&gt;
+&lt;&amp;#47;strong&gt;&lt;/p&gt;
+</description>
+                <link>http://blog.simpleit.us/jobs/other/2012/06/15/vinatex</link>
+                <guid>http://blog.simpleit.us/jobs/other/2012/06/15/vinatex</guid>
+                <pubDate>Fri, 15 Jun 2012 19:48:26 +0100</pubDate>
+        </item>
+
+        <item>
+                <title>Networking Dinner</title>
+                <description></description>
+                <link>http://blog.simpleit.us/2012/06/14/1139</link>
+                <guid>http://blog.simpleit.us/2012/06/14/1139</guid>
+                <pubDate>Thu, 14 Jun 2012 09:41:27 +0100</pubDate>
+        </item>
+
+
+</channel>
+</rss>
